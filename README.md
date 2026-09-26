@@ -15,7 +15,7 @@ Este programa simula uma incrição para concurso público.
 ## Tecnologias utilizadas
 
 - Python 3
-- vs Code
+- Vs Code
 - Git
 - GitHub
 
